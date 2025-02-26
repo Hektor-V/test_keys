@@ -1,4 +1,0 @@
-app:
-  secret_key: VerySecure789!
-  database:  
-  pwd: DBPass987@
