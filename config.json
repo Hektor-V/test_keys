@@ -1,9 +1,0 @@
-{
-    "database": {
-      "host": "localhost",
-      "password": "MyDBPass456!"
-    },
-    "api": {
-      "key": "xyz789abc456"
-    }
-  }
